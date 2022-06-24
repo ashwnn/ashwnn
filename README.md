@@ -2,8 +2,6 @@ Hi, I'm Ashwin! I'm currently learning [Typescript](https://github.com/xxiz?tab=
 <sub>![Languages:](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=plastic)
   ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=3776AB&style=plastic)
   ![java](https://img.shields.io/static/v1?logo=java&label=&message=Java&color=36465D&logoColor=FF7800&style=plastic)
-  ![html5](https://img.shields.io/static/v1?logo=html5&label=&message=HTML5&color=36465D&logoColor=E34F26&style=plastic)
-  ![css3](https://img.shields.io/static/v1?logo=css3&label=&message=CSS3&color=36465D&logoColor=1572B6&style=plastic)
   ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=Javascript&color=36465D&logoColor=F7DF1E&style=plastic)
   ![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=36465D&logoColor=777BB4&style=plastic)
   ![processing](https://img.shields.io/static/v1?logo=processingfoundation&label=&message=Processing&color=36465D&logoColor=006699&style=plastic)
