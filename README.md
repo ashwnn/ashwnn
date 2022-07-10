@@ -1,6 +1,6 @@
 ```css
        /\         ashwin@dev
-      /  \        os        Arch, Windows 10
+      /  \        os        archlinux, windows10
      /\   \       languages java, python, php, ts
     /      \      kernel    5.18.9-arch1-1
    /   ,,   \     uptime    19y
