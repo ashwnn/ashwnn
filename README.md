@@ -1,8 +1,8 @@
-```css
+```ts
        /\         ashwin@dev
       /  \        os        archlinux, windows10
      /\   \       languages java, python, php, ts
-    /      \      kernel    5.18.9-arch1-1
+    /      \      tools     vscode, vim, gh, vercel, heroku
    /   ,,   \     uptime    19y
   /   |  |  -\    shell     bash, ps
  /_-''    ''-_\   terminal  alacritty, git
