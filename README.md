@@ -1,12 +1,4 @@
-```ts
-       /\         ashwin@dev
-      /  \        os        archlinux, windows10
-     /\   \       languages java, python, php, ts
-    /      \      tools     vscode, vim, gh, vercel, heroku
-   /   ,,   \     uptime    19y
-  /   |  |  -\    shell     bash, ps
- /_-''    ''-_\   terminal  alacritty, git
-```
+Hey, I'm Ashwin
 
 <details>
 <summary>Github/Weekly Stats</summary>
