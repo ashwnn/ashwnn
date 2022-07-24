@@ -1,4 +1,4 @@
-Hey, I'm Ashwin, I create and break things with code.
+I'm Ashwin
 
 <details>
 <summary>Github/Weekly Stats</summary>
