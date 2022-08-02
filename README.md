@@ -1,5 +1,3 @@
-I'm Ashwin
-
 <details>
 <summary>Github/Weekly Stats</summary>
 <p align=center>
