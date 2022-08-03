@@ -1,3 +1,5 @@
+👋 I'm Ashwin, a 19 y/o from British Columbia passionate about open source, <b>cybersecurity</b> and <b>software development</b>.
+
 <details>
 <summary>Github/Weekly Stats</summary>
 <p align=center>
