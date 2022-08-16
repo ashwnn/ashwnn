@@ -1,3 +1,4 @@
+<img width="400px" src="/github-metrics.svg" />
 <details>
 <summary>Github/Weekly Stats</summary>
 <p align=center>
