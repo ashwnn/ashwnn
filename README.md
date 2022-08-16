@@ -1,1 +1,1 @@
-<img height="500px" width="860px" src="/github-metrics.svg" />
+<img width="430px" src="/github-metrics.svg" />
