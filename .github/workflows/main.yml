@@ -20,9 +20,4 @@ jobs:
           config_display: regular
           config_timezone: America/Vancouver
 
-          plugin_lines: yes
-
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, languages, languages-graphs
+          # plugin_lines: yes
